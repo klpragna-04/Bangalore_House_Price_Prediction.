@@ -64,6 +64,3 @@ This project involves a complete machine learning pipeline, from data preprocess
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Scikit-Learn Documentation](https://scikit-learn.org/)
 
----
-
-This README now places a stronger emphasis on the machine learning pipeline, processes, and concepts involved. You can further adjust it as needed before uploading to GitHub.
