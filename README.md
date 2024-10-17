@@ -1,10 +1,7 @@
-Here's an updated README file that emphasizes the machine learning aspects of your project:
-
----
-
 # Bangalore House Price Prediction
 
 [View the deployed website here](http://ec2-16-171-152-102.eu-north-1.compute.amazonaws.com/) 
+
 ![Website Screenshot](server/website.png) 
 
 ## Project Overview
