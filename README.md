@@ -5,7 +5,7 @@ Here's an updated README file that emphasizes the machine learning aspects of yo
 # Bangalore House Price Prediction
 
 [View the deployed website here](http://ec2-16-171-152-102.eu-north-1.compute.amazonaws.com/) 
-![Website Screenshot](website.png) 
+![Website Screenshot](server/website.png) 
 
 ## Project Overview
 This project leverages machine learning to predict house prices in Bangalore. Using a dataset of 13,000 entries, we conducted data cleaning, feature engineering, and applied various machine learning algorithms with hyperparameter tuning. The final model was deployed on an AWS EC2 instance, with a web application interface built using Flask.
